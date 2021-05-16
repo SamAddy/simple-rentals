@@ -41,7 +41,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST")
                return $user_data;
             }
         }
-        header("Location: home.php");
+        header("Location: index.php");
         die;
     }
 }
