@@ -39,3 +39,5 @@ Below is the page you will see after doing everything right.
 
 This is also a link to the project hosted on the internet:
 https://sam-rentals.herokuapp.com
+
+![image](https://user-images.githubusercontent.com/40091471/124510717-bd14e300-ddd4-11eb-9caf-bcc191fb1bb6.png)
