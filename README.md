@@ -1,5 +1,6 @@
-# simple-rentals
+# Simple-Rentals
 Online Car Rental System Documentation
+This is a simple online car rental system which gives clients a wide variety of vehicles to choose from, ranging from compact sedans to spacious SUVs. Whether you need a reliable car for a short business trip or a spacious vehicle for a family vacation, we have the perfect option for you.
 
 #To host the project on XAMPP
 Download XAMPP
